@@ -1,0 +1,13 @@
+name: leandro-ladeira
+version: 1.0.0
+type: minds
+description: Padroes cognitivos do Leandro Ladeira -- o Motor Perpetuo do marketing digital brasileiro
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - marketing-digital
+  - copywriting
+  - brasil
+  - vendas
+  - cognitive-mind

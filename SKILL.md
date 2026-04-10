@@ -1,27 +1,18 @@
-# Leandro Ladeira
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/leandro-ladeira)
-
-Padroes cognitivos do Leandro Ladeira -- o Motor Perpetuo do marketing digital brasileiro
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/leandro-ladeira) to install.
-
-```bash
-# After purchase:
-myclaude install leandro-ladeira
-```
-
-## About
+---
+name: leandro-ladeira
+display_name: Leandro Ladeira
+description: Padroes cognitivos do Leandro Ladeira -- o Motor Perpetuo do marketing digital brasileiro
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "marketing-digital"
+  - "copywriting"
+  - "brasil"
+  - "vendas"
+  - "cognitive-mind"
+marketplace_url: "https://myclaude.sh/p/leandro-ladeira"
+---
 
 # Leandro Ladeira
 
@@ -70,13 +61,3 @@ Nao e um prompt generico de "finja ser o Ladeira." E uma arquitetura cognitiva d
 
 Published on [myclaude.sh](https://myclaude.sh/p/leandro-ladeira) | Built with [MyClaude Studio Engine](https://myclaude.sh)
 
-
-## Tags
-
-`marketing-digital` `copywriting` `brasil` `vendas` `cognitive-mind`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/leandro-ladeira) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
